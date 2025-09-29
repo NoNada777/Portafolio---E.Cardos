@@ -1,0 +1,21 @@
+/**/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+body{ 
+    background: rgb(255, 255, 255);
+}
+
+h1,h2{
+    font-family: "Bebas Neue", sans-serif;
+}
+p{
+    font-family: "Lato", sans-serif;
+}
+
+header{
+    text-align: center;
+    border: solid 4px rgb(0, 0, 0) ;
+    margin-bottom: 14px ; /*bottom margen de abajo hay top, left y right*/
+    padding: 5px ;
+}
